@@ -1,1 +1,1 @@
-# Flask VS Django Article
+# Flask VS Django Article.
